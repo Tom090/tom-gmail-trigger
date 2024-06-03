@@ -1,0 +1,1 @@
+{"version":3,"file":"TomGmailTriggerAuth.d.ts","sourceRoot":"","sources":["../src/TomGmailTriggerAuth.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,0BAA0B,EAAE,MAAM,sDAAsD,CAAC;AAElG,MAAM,MAAM,aAAa,GAAG;IACxB,EAAE,EAAG,MAAM,CAAA;CACd,CAAA;AAED,MAAM,MAAM,YAAY,GAAG,EAC1B,CAAA;AAED,MAAM,MAAM,mBAAmB,GAAG,0BAA0B,CAAE,aAAa,EAAE,YAAY,CAAC,CAAA"}

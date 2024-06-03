@@ -1,0 +1,1 @@
+{"name":"tom-gmail-trigger","version":"1.0","title":"Tom gmail trigger","description":"","service":{"name":"google-gmail","version":"2"},"tags":["service"],"isTrigger":true,"rawHttp":{"enabled":false}}
